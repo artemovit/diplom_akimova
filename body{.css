@@ -1,0 +1,392 @@
+body {
+    background: #F1F1F5;
+}
+
+.header {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    left: -10px;
+    top: 0px;
+    background: #1B1D36;
+}
+
+.header th {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 39px;
+    color: #F1F1F5;
+}
+
+
+
+footer {
+    position: absolute;
+    width: 100%;
+    height: 5%;
+    left: -8px;
+    top: 2874px;
+    padding: 31px;
+    background: #1B1D36;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #84848C;
+}
+
+footer p{
+    position: absolute;
+    width: 303px;
+    height: 29px;
+
+    text-align:right;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#mail {
+    position: absolute;
+    width: 303px;
+    height: 29px;
+
+    left: 1575px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+h1 {
+    position: absolute;
+    width: 30%;
+    height: 59%;
+    left: 41px;
+    top: 80px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+
+
+h2 {
+    position: absolute;
+    width: 538px;
+    height: 58px;
+    left: 41px;
+    top: 1558px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #000000;
+}
+
+.top4_first {
+    position: absolute;
+    width: 80%;
+    height: 40%;
+    text-align: center;
+    left: 8%;
+    top: 182px;
+    border-spacing: 40px;
+
+}
+
+.top4_first img {
+    height: 60%;
+    width: 100%;
+}
+
+.top4_first p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.top4_first th {
+    vertical-align: top;
+}
+
+#p1 {
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.top4_first h1 {
+    left: -9px;
+    top: 249px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #EE3224;
+}
+
+.top4_first h2 {
+    left: 332px;
+    top: 249px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #EE3224;
+  }
+
+.top4_first h3 {
+    left: 935px;
+    top: 249px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #EE3224;
+}
+
+.top4_first h4 {
+    left: 1295px;
+    position: absolute;
+    top: 240px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #EE3224;
+}
+
+
+.table {
+    position: absolute;
+    margin: auto;
+    width: 1060px;
+    top: 709px;
+    left: 520px;
+    height: 1429.5px;
+    border-collapse: collapse;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    border-spacing: 4px;
+    border-bottom: 4px solid;
+}
+
+.table th {
+    text-align: left;
+    border-bottom: 3px solid #EE3224;
+    padding: 10px;
+}
+
+.td_date_today {
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    background: #EE3224;
+    width: 218px;
+    height: 72px;
+    left: 442px;
+    top: 729px;
+
+
+}
+
+.td_date_after {
+    background: #84848C;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.mouth {
+    position: absolute;
+    margin: auto;
+    width: 960px;
+    top: 599px;
+    left: 460px;
+    height: 1129.5px;
+    border-collapse: collapse;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    border-spacing: 10px;
+}
+
+.mouth_red {
+    color: #EE3224;
+}
+
+.table tr {}
+
+.abonements {
+    position: absolute;
+    width: 483px;
+    height: 300px;
+    left: 140px;
+    top: 1750px;
+    border-spacing: 40px;
+}
+
+.abonements img {
+    height: 300px;
+    width: 483px;
+}
+
+
+.abonements h1 {
+    position: absolute;
+    left: 175px;
+
+    top: 330px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.abonements h2 {
+    left: 550px;
+    position: absolute;
+    top: 330px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.abonements p {
+    position: absolute;
+    width: 483px;
+    height: 119px;
+    top: 370px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.abonements h3 {
+
+    left: 1230px;
+    position: absolute;
+    top: 330px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.abonements td {
+    position: absolute;
+    width: 483px;
+    height: 300px;
+    left: 140px;
+    top: 2632px;
+}
+
+.repertuar_now {
+    position: absolute;
+    width: 483px;
+    height: 300px;
+    top: 55px;
+    border-spacing: 50px;
+}
+
+.repertuar_now img {
+    position: absolute;
+    width: 310px;
+    height: 412px;
+
+}
+
+.repertuar_now h1 {
+    position: absolute;
+    width: 208px;
+    height: 24px;
+    left: 120px;
+    top: 726px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.repertuar_now p {
+    position: absolute;
+
+    left: 79px;
+    top: 750px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
